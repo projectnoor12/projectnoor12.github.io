@@ -203,7 +203,7 @@ nav ul li a.active:after {
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/texture-bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/texture-bg.jpg');
     background-size: cover;
     background-position: center;
     color: var(--white);
