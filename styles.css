@@ -203,7 +203,7 @@ nav ul li a.active:after {
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('https://source.unsplash.com/random/1920x1080/?light,minimal');
+    background-image: url(../images/texture-bg.jpg);
     background-size: cover;
     background-position: center;
     color: var(--white);
